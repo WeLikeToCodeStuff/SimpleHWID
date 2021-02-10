@@ -26,7 +26,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/WeLikeToCodeStuff/SimpleHWID/issues). You can also take a look at the [contributing guide](https://github.com/WeLikeToCodeStuff/SimpleHWID/pulls).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/WeLikeToCodeStuff/SimpleHWID/issues). You can also take a look at the [contributing guide](https://github.com/WeLikeToCodeStuff/SimpleHWID/issues).
 
 ## Show your support
 
