@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: xyz.ssmidge.simplehwid.Main
+Class-Path: xyz.ssmidge.simplehwid.Main xyz.ssmidge.simplehwid.HWID xyz.
+ ssmidge.simplehwid.LicenseItem xyz.ssmidge.simplehwid.VerifyFrame
+
